@@ -1,0 +1,1225 @@
+
+.back1 {
+    position: absolute;
+    width: 2952px;
+    height: 1996px;
+    left: 0px;
+    top: 0px;
+    
+    background-image: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583280742/giphy_14_hmxsy5.gif);
+  background-size: cover;
+}
+
+
+.back2 {
+    position: absolute;
+    width: 2952px;;
+    height: 1096px;
+    left: 0px;
+    top: 1996px;
+    
+    background-image: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583280515/1499586035_tumblr_ofas90Z1Kd1ujqvcvo1_500_ptm258.gif);
+  background-size: cover;
+}
+
+.back3 {
+    position: absolute;
+    width: 2952px;;
+    height: 1094px;
+    left: -7px;
+    top: 3090px;
+    
+    background-image: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583280515/1499586035_tumblr_ofas90Z1Kd1ujqvcvo1_500_ptm258.gif);
+  transform: rotate(-179.88deg);
+  transform: matrix(1, 0, 0, -1, 0, 0);
+  background-size: cover;
+  
+}
+
+.back4 {
+position: absolute;
+width: 2952px;;
+height: 1423px;
+left: 0px;
+top: 3690px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583280493/5lmwwtU_xfvheb.gif);
+mix-blend-mode: darken;
+background-size: cover;
+}
+
+.back5 {
+position: absolute;
+width: 3352px;
+height: 1946.29px;
+left: -400px;
+top: 5090px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583280503/43d1d0fa0a41cc4090c0e20f3687505d_mbahio.gif);
+transform: rotate(-179.97deg);
+  background-size: cover;
+}
+
+.u1 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 47px;
+top: 83px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308432/Devoid/ezgif.com-video-to-gif_12_t917sc.gif);
+mix-blend-mode: color-dodge;  
+  background-size: 195px 309px;
+}
+
+.u1:hover{
+	background:#0006ff;
+}
+
+.u2 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 264px;
+top: 83px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583303088/Devoid/ezgif.com-video-to-gif_14_jcdl9l.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+  
+}
+
+.u2:hover{
+	background:#0006ff;
+}
+
+.u3 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 47px;
+top: 411px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308431/Devoid/ezgif.com-video-to-gif_13_vei86f.gif);
+mix-blend-mode: color-dodge;
+background-size: 195px 309px;
+  
+}
+
+.u3:hover{
+	background:#0006ff;
+}
+
+.u4 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 264px;
+top: 411px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583299532/Devoid/ezgif.com-video-to-gif_11_gk0swa.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+}
+
+.u4:hover{
+	background:#0006ff;
+}
+.u5 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 1178px;
+top: 795px;
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307612/Atmosphere/ezgif.com-video-to-gif_12_e61hq6.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+}
+
+.u5:hover{
+	background:#ff004e;
+}
+
+.u6 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 1178px;
+top: 1123px;
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583304988/Atmosphere/ezgif.com-video-to-gif_14_x6ilta.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+}
+
+.u6:hover{
+	background:#ff004e;
+}
+  
+.u7 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 741px;
+top: 797px;
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308864/Uniformity/ezgif.com-video-to-gif_22_cejg1g.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+}
+
+.u7:hover{
+	background:#c000ff;
+}
+
+.u8 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 958px;
+top: 795px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307665/Uniformity/ezgif.com-video-to-gif_20_kkltsl.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+
+}
+
+.u8:hover{
+	background:#c000ff;
+}
+
+.u9 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 741px;
+top: 1125px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307643/Devoid/ezgif.com-video-to-gif_17_n9myn6.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+}
+
+.u9:hover{
+	background:#0006ff;
+}
+
+.u10 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 958px;
+top: 1125px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583303088/Devoid/ezgif.com-video-to-gif_10_bco4gx.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+  
+  }
+
+.u10:hover{
+	background:#0006ff;
+}
+
+.u11 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 49px;
+top: 1424px;
+
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308450/Uniformity/ezgif.com-video-to-gif_19_aiul01.gif);
+mix-blend-mode: color-dodge;
+background-size: 195px 309px;
+}
+
+.u11:hover{
+	background:#c000ff;
+  
+}
+  
+.u12 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 269px;
+top: 1424px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308798/Atmosphere/ezgif.com-video-to-gif_20_qy7mwb.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+
+}
+
+.u12:hover{
+	background:#ff004e;
+  
+}
+
+.u13 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 49px;
+top: 1752px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308431/Devoid/ezgif.com-video-to-gif_11_eva7g3.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+}
+
+.u13:hover{
+	background:#0006ff;
+  
+}
+.u14 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 269px;
+top: 1752px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308431/Devoid/ezgif.com-video-to-gif_10_vaekvx.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+}
+
+.u14:hover{
+	background:#0006ff;
+  
+}
+
+.u15 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 486px;
+top: 2107px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583305213/Uniformity/ezgif.com-optimize_4_twsi48.gif);
+mix-blend-mode: color-dodge;
+background-size: 195px 309px;
+}
+
+.u15:hover{
+	background:#c000ff;
+}
+
+.u16 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 269px;
+top: 2109px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583303088/Devoid/ezgif.com-video-to-gif_12_vrzzru.gif);
+mix-blend-mode: color-dodge;
+background-size: 195px 309px;
+}
+
+.u16:hover{
+	background:#0006ff;
+}
+
+.u17 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 706px;
+top: 2109px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308450/Uniformity/ezgif.com-video-to-gif_17_neu5gh.gif);
+mix-blend-mode: color-dodge;
+background-size: 195px 309px;
+}
+
+.u17:hover{
+	background:#c000ff;
+}
+
+.u18 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 923px;
+top: 2107px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307647/Devoid/ezgif.com-video-to-gif_18_j0vkbi.gif);
+mix-blend-mode: color-dodge;
+background-size: 195px 309px;
+}
+
+.u18:hover{
+	background:#0006ff;
+}
+
+.u19 {
+
+position: absolute;
+width: 193px;
+height: 311px;
+left: 271px;
+top: 2437px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307643/Devoid/ezgif.com-video-to-gif_16_pn57vw.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+.u19:hover{
+	background:#0006ff;
+}
+
+.u20 {
+position: absolute;
+width: 188px;
+height: 308px;
+left: 492px;
+top: 2437px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583299532/Devoid/ezgif.com-video-to-gif_12_tyltls.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+
+.u20:hover{
+	background:#0006ff;
+}
+
+.u21 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 708px;
+top: 2437px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583305383/Atmosphere/ezgif.com-optimize_6_efyvk4.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+
+.u21:hover{
+  background:#ff004e;
+}
+
+.u22 {
+position: absolute;
+width: 188px;
+height: 308px;
+left: 928px;
+top: 2437px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583304997/Atmosphere/ezgif.com-video-to-gif_15_uz6ru3.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+
+.u22:hover{
+  background:#ff004e;
+}
+
+.u23 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 708px;
+top: 3117px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307643/Devoid/ezgif.com-video-to-gif_14_beguoe.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u23:hover{
+  background:#0006ff;
+}
+
+.u24 {
+position: absolute;
+width: 188px;
+height: 308px;
+left: 930px;
+top: 3120px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307642/Devoid/ezgif.com-video-to-gif_13_pldva5.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u24:hover{
+  background:#0006ff;
+}
+
+.u25 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 501px;
+top: 3451px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583304988/Atmosphere/ezgif.com-video-to-gif_13_hhkmar.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u25:hover{
+  background:#ff004e;
+}
+
+.u26 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 718px;
+top: 3449px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308450/Uniformity/ezgif.com-video-to-gif_16_sxbbxj.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u26:hover{
+  background:#c000ff;
+}
+
+
+.u27 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 503px;
+top: 3779px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307665/Uniformity/ezgif.com-video-to-gif_19_bedg3y.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u27:hover{
+  background:#c000ff;
+}
+
+.u28 {
+position: absolute;
+width: 188px;
+height: 308px;
+left: 723px;
+top: 3779px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583303050/Uniformity/ezgif.com-video-to-gif_19_muwxfa.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+
+.u28:hover{
+  background:#c000ff;
+}
+
+.u29 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 190px;
+top: 3781px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583303087/Devoid/ezgif.com-video-to-gif_11_mryhos.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+
+.u29:hover{
+  background:#0006ff;
+}
+
+.u30 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 407px;
+top: 3779px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583299857/Uniformity/ezgif.com-video-to-gif_21_y5tlqp.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+
+.u30:hover{
+  background:#c000ff;
+}
+
+.u31 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 1084px;
+top: 3626px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583304940/Uniformity/ezgif.com-video-to-gif_18_xlqgfl.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+
+.u31:hover{
+  background:#c000ff;
+}
+
+.u32 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 1301px;
+top: 3624px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583304987/Atmosphere/ezgif.com-video-to-gif_12_dgchvn.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+
+.u32:hover{
+  background:#ff004e;
+}
+
+.u33 {
+position: absolute;
+width: 188px;
+height: 308px;
+left: 94px;
+top: 3489px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583299532/Devoid/ezgif.com-video-to-gif_10_olfc19.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+} 
+
+.u33:hover{
+  background:#0006ff;
+}
+
+.u34 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 192px;
+top: 4109px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583304997/Atmosphere/ezgif.com-video-to-gif_17_ormuau.gif);
+mix-blend-mode: color-dodge;
+ background-size: cover;
+}
+
+.u34:hover{
+  background:#ff004e;
+}
+
+.u35 {
+position: absolute;
+width: 188px;
+height: 308px;
+left: 412px;
+top: 4109px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583304997/Atmosphere/ezgif.com-video-to-gif_16_vlnqod.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u35:hover{
+  background:#ff004e;
+}
+
+.u36 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 696px;
+top: 4052px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307643/Devoid/ezgif.com-video-to-gif_15_korw6d.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u36:hover{
+  background:#0006ff;
+}
+
+.u37 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 913px;
+top: 4050px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583303049/Uniformity/ezgif.com-video-to-gif_16_zkk5sj.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u37:hover{
+  background:#c000ff;
+}
+
+.u38 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 698px;
+top: 4380px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583299577/Uniformity/ezgif.com-video-to-gif_15_mafuiq.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u38:hover{
+  background:#c000ff;
+}
+
+.u39 {
+position: absolute;
+width: 188px;
+height: 308px;
+left: 918px;
+top: 4380px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583303088/Devoid/ezgif.com-video-to-gif_13_ravn4k.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u39:hover{
+  background:#0006ff;
+}
+
+.u40 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 481px;
+top: 4715px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583303087/Devoid/ezgif.com-video-to-gif_11_mryhos.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u40:hover{
+  background:#0006ff;
+}
+
+.u41 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 698px;
+top: 4713px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583299547/Devoid/ezgif.com-video-to-gif_14_yt6vtn.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u41:hover{
+  background:#0006ff;
+}
+
+.u42 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 483px;
+top: 5043px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583299547/Devoid/ezgif.com-video-to-gif_13_dnrdyv.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u42:hover{
+  background:#0006ff;
+}
+
+.u43 {
+position: absolute;
+width: 188px;
+height: 308px;
+left: 603px;
+top: 5043px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308450/Uniformity/ezgif.com-video-to-gif_19_aiul01.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u43:hover{
+  background:#c000ff;
+}
+
+.u44 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 420px;
+top: 5198px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308450/Uniformity/ezgif.com-video-to-gif_18_sfp2zz.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u44:hover{
+  background:#c000ff;
+}
+
+.u45 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 708px;
+top: 5396px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308450/Uniformity/ezgif.com-video-to-gif_16_sxbbxj.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u45:hover{
+  background:#c000ff;
+}
+
+.u46 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 542px;
+top: 5726px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583299532/Devoid/ezgif.com-video-to-gif_10_olfc19.gif);
+mix-blend-mode: color-dodge;
+    background-size: cover;
+}
+
+.u46:hover{
+  background:#0006ff;
+}
+
+.u47 {
+position: absolute;
+width: 188px;
+height: 308px;
+left: 713px;
+top: 5726px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583305151/Uniformity/ezgif.com-optimize_3_elwuzg.gif);
+mix-blend-mode: color-dodge;
+    background-size: cover;
+
+}
+
+.u47:hover{
+  background:#c000ff;
+}
+
+.u48 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 817px;
+top: 5448px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307665/Uniformity/ezgif.com-video-to-gif_20_kkltsl.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+
+.u48:hover{
+  background:#c000ff;
+}
+
+.q1 {
+position: absolute;
+width: 147px;
+height: 110px;
+left: 1500px;
+top: 137px;
+
+background: #c000ff;
+mix-blend-mode: soft-light;
+  font-family: helvetica;
+  font style: bold;
+}
+
+.q2 {
+position: absolute;
+width: 147px;
+height: 110px;
+left: 1500px;
+top: 270px;
+
+background: #ff004e;
+mix-blend-mode: soft-light;
+   font-family: helvetica;
+  font style: bold;
+}
+
+.q3 {
+  position: absolute;
+width: 147px;
+height: 110px;
+left: 1500px;
+top: 403px;
+
+background: #0006ff;
+mix-blend-mode: soft-light;
+  font-family: helvetica;
+  font style: bold;
+}
+
+
+.suprise {
+position: absolute;
+width: 20px;
+height: 19px;
+left: 509px;
+top: 1578px;
+
+background: #c000ff;
+mix-blend-mode: softlight;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .back1 {
+position: absolute;
+width: 2462px;
+height: 1715px;
+left: 1px;
+top: 0px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583280742/giphy_14_hmxsy5.gif);
+    background-size: cover;
+  }
+  
+.back2 { 
+position: absolute;
+width: 1124px;
+height: 856px;
+left: 1px;
+top: 1612px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583280515/1499586035_tumblr_ofas90Z1Kd1ujqvcvo1_500_ptm258.gif);
+    background-size: cover;
+  }
+  
+.back3 {
+position: absolute;
+width: 1124.86px;
+height: 855.26px;
+left: 0px;
+top: 2468px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583280515/1499586035_tumblr_ofas90Z1Kd1ujqvcvo1_500_ptm258.gif);
+transform: rotate(-179.88deg);
+background-size: cover;
+  }
+  
+.back4 {
+position: absolute;
+width: 600px;
+height: 1111px;
+left: 0px;
+top: 3104px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583280493/5lmwwtU_xfvheb.gif);
+mix-blend-mode: darken;
+    background-size: cover;
+  }
+  
+.back5 {
+position: absolute;
+width: 852.44px;
+height: 1151.62px;
+left: -150px;
+top: 4215px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583280503/43d1d0fa0a41cc4090c0e20f3687505d_mbahio.gif);
+background-size: cover;
+  }
+
+  .u1 {
+position: absolute;
+width: 71px;
+height: 116px;
+left: 36px;
+top: 583px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308432/Devoid/ezgif.com-video-to-gif_12_t917sc.gif);
+mix-blend-mode: color-dodge;  
+  background-size: cover;
+}
+
+.u2 {
+position: absolute;
+width: 71px;
+height: 116px;
+left: 111px;
+top: 583px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583303088/Devoid/ezgif.com-video-to-gif_14_jcdl9l.gif);
+background-size: cover;
+mix-blend-mode: color-dodge;
+  
+}
+
+.u3 {
+position: absolute;
+width: 71px;
+height: 116px;
+left: 36px;
+top: 716px;
+
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308431/Devoid/ezgif.com-video-to-gif_13_vei86f.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+  
+}
+
+.u4 {
+position: absolute;
+width: 71px;
+height: 116px;
+left: 187px;
+top: 583px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583299532/Devoid/ezgif.com-video-to-gif_11_gk0swa.gif);
+background-size: cover;
+mix-blend-mode: color-dodge;
+}
+  
+.u5 {
+position: absolute;
+width: 72px;
+height: 117px;
+left: 111px;
+top: 716px;
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307612/Atmosphere/ezgif.com-video-to-gif_12_e61hq6.gif);
+background-size: cover;
+mix-blend-mode: color-dodge;
+}
+
+.u6 {
+position: absolute;
+width: 71px;
+height: 116px;
+left: 187px;
+top: 716px;
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583304988/Atmosphere/ezgif.com-video-to-gif_14_x6ilta.gif);
+background-size: cover;
+mix-blend-mode: color-dodge;
+}
+
+.u7 {
+position: absolute;
+width: 71px;
+height: 116px;
+left: 36px;
+top: 849px;
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308864/Uniformity/ezgif.com-video-to-gif_22_cejg1g.gif);
+background-size: cover;
+mix-blend-mode: color-dodge;
+}
+
+.u8 {
+position: absolute;
+width: 72px;
+height: 117px;
+left: 111px;
+top: 849px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307665/Uniformity/ezgif.com-video-to-gif_20_kkltsl.gif);
+background-size: cover;
+mix-blend-mode: color-dodge;
+}
+
+.u9 {
+position: absolute;
+width: 71px;
+height: 116px;
+left: 187px;
+top: 849px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307643/Devoid/ezgif.com-video-to-gif_17_n9myn6.gif);
+background-size: cover;
+mix-blend-mode: color-dodge;
+}
+
+.u10 {
+position: absolute;
+width: 266px;
+height: 442px;
+left: 231px;
+top: 606px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583303088/Devoid/ezgif.com-video-to-gif_10_bco4gx.gif);
+background-size: cover;
+mix-blend-mode: color-dodge;
+}
+
+  .u12 {
+position: absolute;
+width: 266px;
+height: 442px;
+left: 148px;
+top: 1227px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308798/Atmosphere/ezgif.com-video-to-gif_20_qy7mwb.gif);
+background-size: 195px 309px;
+mix-blend-mode: color-dodge;
+}
+  
+.u15 {
+position: absolute;
+width: 141px;
+height: 231px;
+left: 12px;
+top: 2156px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583305213/Uniformity/ezgif.com-optimize_4_twsi48.gif);
+mix-blend-mode: color-dodge;
+background-size: 195px 309px;
+}
+
+.u16 {
+position: absolute;
+width: 145px;
+height: 234px;
+left: 175px;
+top: 2154px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583303088/Devoid/ezgif.com-video-to-gif_12_vrzzru.gif);
+mix-blend-mode: color-dodge;
+background-size: 195px 309px;
+}
+
+.u17 {
+position: absolute;
+width: 141px;
+height: 232px;
+left: 341px;
+top: 2154px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308450/Uniformity/ezgif.com-video-to-gif_17_neu5gh.gif);
+mix-blend-mode: color-dodge;
+background-size: 195px 309px;
+}
+
+.u18 {
+position: absolute;
+width: 141px;
+height: 231px;
+left: 106px;
+top: 2321px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307647/Devoid/ezgif.com-video-to-gif_18_j0vkbi.gif);
+mix-blend-mode: color-dodge;
+background-size: 195px 309px;
+}
+  
+.u22 {
+position: absolute;
+width: 266px;
+height: 442px;
+left: 0px;
+top: 2647px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583304997/Atmosphere/ezgif.com-video-to-gif_15_uz6ru3.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+  
+.u20 {
+position: absolute;
+width: 145px;
+height: 234px;
+left: 316px;
+top: 2991px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583299532/Devoid/ezgif.com-video-to-gif_12_tyltls.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+
+.u21 {
+position: absolute;
+width: 141px;
+height: 231px;
+left: 153px;
+top: 2993px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583305383/Atmosphere/ezgif.com-optimize_6_efyvk4.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+  
+  .u44 {
+position: absolute;
+width: 170px;
+height: 282px;
+left: -59px;
+top: 4323px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308450/Uniformity/ezgif.com-video-to-gif_18_sfp2zz.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u45 {
+position: absolute;
+width: 193px;
+height: 311px;
+left: 708px;
+top: 5396px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583308450/Uniformity/ezgif.com-video-to-gif_16_sxbbxj.gif);
+mix-blend-mode: color-dodge;
+  background-size: cover;
+}
+
+.u46 {
+position: absolute;
+width: 113px;
+height: 188px;
+left: 54px;
+top: 4469px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583299532/Devoid/ezgif.com-video-to-gif_10_olfc19.gif);
+mix-blend-mode: color-dodge;
+    background-size: cover;
+}
+
+.u47 {
+position: absolute;
+width: 266px;
+height: 442px;
+left: 207px;
+top: 4323px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583305151/Uniformity/ezgif.com-optimize_3_elwuzg.gif);
+mix-blend-mode: color-dodge;
+    background-size: cover;
+
+}
+
+.u48 {
+position: absolute;
+width: 195px;
+height: 309px;
+left: 817px;
+top: 5448px;
+
+background: url(https://res.cloudinary.com/amaarahrahman/image/upload/v1583307665/Uniformity/ezgif.com-video-to-gif_20_kkltsl.gif);
+mix-blend-mode: color-dodge;
+background-size: cover;
+}
+  
+}
